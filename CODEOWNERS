@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ashourmotasem113-blip
+/src/backend/database.py      @ashourmotasem113-blip
+/src/backend/routers/auth.py  @ashourmotasem113-blip
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ashourmotasem113-blip
